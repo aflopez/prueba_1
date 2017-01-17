@@ -24,12 +24,12 @@ Adiós
     * Item 3a 
     * Item 3b 
     
-    This is [an example](http://example.com/ "Title") inline link with a title. [This link](http://example.net/) has no title attribute. 
+This is [an example](http://example.com/ "Title") inline link with a title. [This link](http://example.net/) has no title attribute. 
     
-    [El País](http://elpais.com/ "El País") Periódico de información general.
+[El País](http://elpais.com/ "El País") Periódico de información general.
     
     
-  1. Organización Marítima Internacional [OMI](http://www.imo.org)
+1. Organización Marítima Internacional [OMI](http://www.imo.org)
      1. Naciones Unidas [UNO](http://www.un.org/es)
      
      Naciones Unidas [Un](un)
