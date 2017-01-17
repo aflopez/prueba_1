@@ -37,4 +37,14 @@ This is [an example](http://example.com/ "Title") inline link with a title. [Thi
  
  Flora Canaria ![flora canaria](http://www.canarias7.es/fotos/o/1411/355117-1g.jpg)
  
+ ![Desierto](/assets/Desert.jpg)
+
+ Como dijo Bruce Lee:
+  
+ >Be water, my friend
+ 
+ y Mark Twain añadió:
+ >Nadie se desembaraza de un hábito o de un vicio tirándolo de una vez por la ventana; hay que sacarlo por la escalera, peldaño a peldaño.
+ 
+ ...
  
