@@ -48,7 +48,7 @@ This is [an example](http://example.com/ "Title") inline link with a title. [Thi
  
 | Apellido | Nombre |
 | ------------- | ------------- |
-| Content Cell | Content Cell |
+| Content Cell| Content Cell |
 | Content Cell | Content Cell | 
 | Ejemplo 1| ejemplo 2| 
 | Ejemplo 3|  ejemplo 4| 
@@ -64,4 +64,14 @@ This is [an example](http://example.com/ "Title") inline link with a title. [Thi
 
 Como  dice  `Twain`...
 <div><b> nueva frase </b></div>
+
+<table style="width:100%"> <tr> <th>Firstname</th> <th>Lastname</th> <th>Age</th> </tr> <tr> <td>Jill</td> <td>Smith</td> <td>50</td> </tr> <tr> <td>Eve</td> <td>Jackson</td> <td>94</td> </tr> </table> 
+
+nota al pie [^457];
+
+otra nota [^568]
+
+
+[^457]: esta es la explicación a la nota al pie
+[^568]: pues eso, como iba diciendo.
  
