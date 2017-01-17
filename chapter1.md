@@ -79,5 +79,8 @@ __Heading__ [^568]
 
 Esto es una fórmula: $$x=\frac{1+y}{1+2z^2}$$ 
 
+---
+
+
 
  
