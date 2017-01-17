@@ -52,7 +52,16 @@ This is [an example](http://example.com/ "Title") inline link with a title. [Thi
 | Content Cell | Content Cell | 
 | Ejemplo 1| ejemplo 2| 
 | Ejemplo 3|  ejemplo 4| 
-
+| -----| -----| 
 | hola | hello| 
 | -----| ----| 
+
+    En un lugar de la Mancha, de cuyo nombre no quiero acordarme...
+    
+    verbatim
+    
+``` esto es un código ```
+
+Como  dice  `Twain`...
+<div><b> nueva frase </b></div>
  
