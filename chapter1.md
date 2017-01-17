@@ -76,4 +76,8 @@ __Heading__ [^568]
 [^457]: *esta* es la explicación a la nota al pie
 
 [^568]: Cabecera
+
+Esto es una fórmula: $$x=\frac{1+y}{1+2z^2}$$ 
+
+
  
