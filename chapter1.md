@@ -44,7 +44,7 @@ This is [an example](http://example.com/ "Title") inline link with a title. [Thi
  >Now you put water in a cup, it becomes the cup; You put water into a bottle it becomes the bottle; You put it in a teapot it becomes the teapot. Now water can flow or it can crash. **Be water, my friend**.
  
  y Mark Twain añadió:
- >Nadie se desembaraza de un hábito o de un vicio tirándolo de una vez por la ventana; hay que sacarlo por la escalera, peldaño a peldaño.
+ >Nadie se desembaraza de un hábito o de un vicio tirándolo de una vez por la ventana; hay que sacarlo _por la escalera, **peldaño a peldaño**_.
  
  ...
  
