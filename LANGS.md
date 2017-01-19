@@ -1,0 +1,5 @@
+* [English](en/)
+* [French](fr/)
+* [Español](es/)
+* [Esperanto](eo/)
+* [Ruso](ru/)
